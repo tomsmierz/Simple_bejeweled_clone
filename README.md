@@ -1,6 +1,6 @@
 #Simple bejeweled clone
 
-I wrote this game with intended to test various reinforcement learning algoritms. Right now this game works and is stable. 
+I wrote this game with intended to test various reinforcement learning algoritms. Right now this game works and is stable. AI is work in progres.
 
 #How to run game:
 - Game was writen in python 3.7, but shoud work with other 3.x versions. 
